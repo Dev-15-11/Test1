@@ -1,0 +1,27 @@
+.form1{
+    border-color:white;
+    border-radius: 1px;
+    height: max-content;
+}
+.A{
+    background-color: #00fff5;
+    width:fit-content;
+    border-radius: 10px;
+}
+.B{
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
+}
+body{
+    font-weight: bolder;
+    font-size: larger;
+    background-color:#0e5569;
+}
+body:hover{
+    font-weight: lighter;
+    cursor: pointer;
+    background-color: #024557;
+    border-radius: 100px;
+    border-color: black;
+
+}
